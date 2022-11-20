@@ -1,0 +1,472 @@
+{
+  "main": {
+    "id": "81d39c33fd6ca6e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0e682b4ce558723",
+        "type": "split",
+        "children": [
+          {
+            "id": "d01ff744c3375dd5",
+            "type": "split",
+            "dimension": 32.40605173255246,
+            "children": [
+              {
+                "id": "f80324b65ebc348f",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "6500b834b870a647",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Reference System/Efficient Attention.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "99e6d21402fb1160",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Reference System/Stable Diffusion.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "ae473393ab9a1b92",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Fleeting.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "68084b8591349c02",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Reference System/Stable Diffusion.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "4a9efe289ecf357d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "_templates/Reference Note.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ],
+                "currentTab": 3
+              },
+              {
+                "id": "07c0ab12bf0457fa",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "b10a8a907d41ec2d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {}
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "ff5a50fee27ba3f0",
+            "type": "split",
+            "dimension": 38.70180575890678,
+            "children": [
+              {
+                "id": "2815421bfba77f1f",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "001b769f6ebab1b0",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "SlipBox/The General Attention Mechanism.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "8b90a7470fa09093",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "SlipBox/Multi-headed attention.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "013985491004c920",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Reference System/Basic guide to einsum.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "4c30759572f5d74f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "PreReference/Non-local module.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "a6a4a2097378d3d3",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "SlipBox/The Einstein Sum.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "19f9dae8305ff342",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "SlipBox/Latent Diffusion models.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ],
+                "currentTab": 5
+              },
+              {
+                "id": "360427a0cae993b5",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "e9c30ec5238f1cc7",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "SlipBox/Latent Diffusion models.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "9b9c52737ff8f49e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "SlipBox/Efficient Attention Mechanism.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "45acd7c156bad784",
+            "type": "split",
+            "dimension": 28.89214250854075,
+            "children": [
+              {
+                "id": "e61ac7ffe5d81f86",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "f81bc7a07d5e6266",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "SlipBox/The General Attention Mechanism.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "053b441a458353d9",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Index.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "ab19b126c43b45ec",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "SlipBox/Attention mechanisms.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "b5d0ba6b8834a208",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "SlipBox/Multi-headed attention.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "b9d5ada18af61bdf",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "SlipBox/Scaled dot-product attention.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "0396a4ff585396f0",
+                    "type": "leaf",
+                    "state": {
+                      "type": "empty",
+                      "state": {}
+                    }
+                  },
+                  {
+                    "id": "90af7e6d3cb6ed31",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "PreReference/Squeeze-and-Excitation.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "f328e250e2e0ddbc",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "SlipBox/Analysis of multi-head attention implementation for images.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ],
+                "currentTab": 1
+              },
+              {
+                "id": "ebb65267f233f6bd",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "3edc505eea5af819",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Reading list.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06e8e1201d87d974",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e027a71359ff3d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7b251ab681ac279",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a65517b837555e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ba2748bb6d5b1ac",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5
+  },
+  "right": {
+    "id": "04e88f4b024b0d5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "730222c52f8d8cda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5eb1f2c1fbe63c17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reference System/Stable Diffusion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d794be22b81bf042",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reference System/Stable Diffusion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f1027a44b121cc4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e5507f5443ed22be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reference System/Stable Diffusion.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "68084b8591349c02",
+  "lastOpenFiles": [
+    "Fleeting.md",
+    "Reference System/Stable Diffusion.md",
+    "Reading list.md",
+    "media/Pasted image 20221118154528.png",
+    "media/Pasted image 20221118125737.png",
+    "SlipBox/Multi-headed attention.md",
+    "Reference System/How to take smart notes.md",
+    "Reference System/Efficient Attention.md",
+    "Reference System/DDPM github.md",
+    "Reference System/Basic guide to einsum.md"
+  ]
+}
